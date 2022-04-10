@@ -4,6 +4,8 @@ bedwarspro.py
 An asynchronous Bedwars Pro API wrapper for Python.
 ---------------------------------------------------------------------
 
+This project is a fork of [hypixel.py](https://github.com/duhby/hypixel.py) by duhby.
+
 ### Installation
 
 ``` sh
